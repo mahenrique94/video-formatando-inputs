@@ -1,0 +1,20 @@
+body {
+    align-items: center;
+    background: #3333cc;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 100vw;
+}
+
+.format {
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+    color: #333333;
+    font-size: 2rem;
+    padding: 1rem;
+    width: 75%;
+}
+.format:focus {
+    outline: none;
+}
